@@ -20,40 +20,150 @@
 
 # Registers:
 ""1	LINE	0
-	endif 作者：TheCW https://www.bilibili.com/read/cv8264341 出处：bilibili
+	""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+"2	LINE	0
+	————————————————
+"3	LINE	0
+	版权声明：本文为CSDN博主「未来土豆导论」的原创文章，遵循CC 4.0 BY-SA版权协议，转载请附上原文出处链接及本声明。
+"4	LINE	0
+	原文链接：https://blog.csdn.net/weixin_35587255/article/details/114752790
+"5	LINE	0
+	export PATH=$JAVA_HOME/bin:$PATH 
+"6	LINE	0
+	export CLASSPATH=.:$JAVA_HOME/lib/dt.jar:$JAVA_HOME/lib/tools.jar 
+"7	LINE	0
+	export CLASSPATH=$:CLASSPATH:$JAVA_HOME/lib/
+"8	LINE	0
+	export PATH=$PATH:$JAVA_HOME/bin
+"9	LINE	0
+	class HelloChina
 
 # File marks:
-'0  22  10  ~/.vimrc
-'1  1  17  ~/.vimrc
+'0  20  0  ~/.vimrc
+'1  80  64  /etc/profile
+'2  1  0  ~/java/HelloWorld.java
+'3  81  65  /etc/profile
+'4  4  0  ~/java/HelloWorld.java
+'5  1  15  ~/java/HelloWorld.java
+'6  3  0  ~/java/test.java
+'7  35  14  ~/test/server.properties
+'8  3  8  ~/test/eula.txt
+'9  1  0  /opt/MCSManager/server/server_core/ONE/eula.txt
 
 # Jumplist (newest first):
--'  22  10  ~/.vimrc
+-'  20  0  ~/.vimrc
+-'  37  0  ~/.vimrc
 -'  1  0  ~/.vimrc
--'  26  0  ~/.vimrc
--'  28  0  ~/.vimrc
--'  8  0  ~/.vimrc
--'  10  0  ~/.vimrc
+-'  80  64  /etc/profile
+-'  81  0  /etc/profile
+-'  1  0  ~/java/HelloWorld.java
+-'  4  0  ~/java/HelloWorld.java
+-'  1  0  /etc/profile
+-'  78  0  /etc/profile
+-'  5  0  ~/java/HelloWorld.java
+-'  3  0  ~/java/test.java
+-'  1  0  ~/java/test.java
+-'  35  14  ~/test/server.properties
+-'  1  0  ~/test/server.properties
+-'  3  8  ~/test/eula.txt
+-'  1  0  ~/test/eula.txt
+-'  1  0  /opt/MCSManager/server/server_core/ONE/eula.txt
+-'  5  41  ~/ReadMe/MCSManager.md
+-'  1  0  ~/ReadMe/MCSManager.md
+-'  101  14  /etc/sudoers
+-'  122  0  /etc/sudoers
+-'  1  0  /etc/sudoers
+-'  75  0  /etc/profile
+-'  121  0  /etc/sudoers
+-'  101  14  /etc/sudoers
+-'  122  0  /etc/sudoers
+-'  1  0  /etc/sudoers
+-'  121  0  /etc/sudoers
+-'  5  41  ~/ReadMe/MCSManager.md
+-'  1  0  ~/ReadMe/MCSManager.md
+-'  101  14  /etc/sudoers
+-'  122  0  /etc/sudoers
+-'  1  0  /etc/sudoers
+-'  121  0  /etc/sudoers
+-'  101  14  /etc/sudoers
+-'  122  0  /etc/sudoers
+-'  1  0  /etc/sudoers
+-'  121  0  /etc/sudoers
+-'  3  0  ~/java/test.java
+-'  1  0  ~/java/test.java
+-'  35  14  ~/test/server.properties
+-'  1  0  ~/test/server.properties
+-'  3  8  ~/test/eula.txt
+-'  1  0  ~/test/eula.txt
+-'  1  0  /opt/MCSManager/server/server_core/ONE/eula.txt
+-'  5  41  ~/ReadMe/MCSManager.md
+-'  1  0  ~/ReadMe/MCSManager.md
+-'  101  14  /etc/sudoers
+-'  122  0  /etc/sudoers
+-'  1  0  /etc/sudoers
+-'  121  0  /etc/sudoers
+-'  101  14  /etc/sudoers
+-'  122  0  /etc/sudoers
+-'  1  0  /etc/sudoers
+-'  121  0  /etc/sudoers
+-'  5  41  ~/ReadMe/MCSManager.md
+-'  1  0  ~/ReadMe/MCSManager.md
+-'  101  14  /etc/sudoers
+-'  122  0  /etc/sudoers
+-'  1  0  /etc/sudoers
+-'  121  0  /etc/sudoers
+-'  101  14  /etc/sudoers
+-'  122  0  /etc/sudoers
+-'  1  0  /etc/sudoers
+-'  121  0  /etc/sudoers
+-'  1  0  ~/java/HelloWorld.java
+-'  4  0  ~/java/HelloWorld.java
+-'  5  0  ~/java/HelloWorld.java
+-'  3  0  ~/java/test.java
+-'  1  0  ~/java/test.java
+-'  35  14  ~/test/server.properties
+-'  1  0  ~/test/server.properties
+-'  3  8  ~/test/eula.txt
+-'  1  0  ~/test/eula.txt
+-'  1  0  /opt/MCSManager/server/server_core/ONE/eula.txt
+-'  5  41  ~/ReadMe/MCSManager.md
+-'  1  0  ~/ReadMe/MCSManager.md
+-'  101  14  /etc/sudoers
+-'  122  0  /etc/sudoers
+-'  1  0  /etc/sudoers
+-'  121  0  /etc/sudoers
+-'  101  14  /etc/sudoers
+-'  122  0  /etc/sudoers
+-'  1  0  /etc/sudoers
+-'  121  0  /etc/sudoers
+-'  5  41  ~/ReadMe/MCSManager.md
+-'  1  0  ~/ReadMe/MCSManager.md
+-'  101  14  /etc/sudoers
+-'  122  0  /etc/sudoers
+-'  80  64  /etc/profile
+-'  81  0  /etc/profile
+-'  1  0  ~/java/HelloWorld.java
+-'  4  0  ~/java/HelloWorld.java
+-'  1  0  /etc/profile
+-'  78  0  /etc/profile
+-'  5  0  ~/java/HelloWorld.java
+-'  3  0  ~/java/test.java
+-'  1  0  ~/java/test.java
+-'  35  14  ~/test/server.properties
 
 # History of marks within files (newest to oldest):
 
 > ~/.vimrc
-	"	22	10
-	^	22	13
-	.	22	10
-	+	32	14
-	+	30	0
-	+	1	50
-	+	25	0
-	+	1	18
-	+	18	5
-	+	1	48
-	+	10	3
-	+	8	1
-	+	7	0
-	+	9	24
-	+	22	1
-	+	20	0
-	+	25	0
-	+	22	1
-	+	23	1
-	+	22	10
+	"	20	0
+	.	38	0
+	+	39	0
+	+	38	0
+
+> /etc/hosts
+	"	41	16
+	^	41	17
+	.	41	16
+	+	8	19
+	+	42	0
+	+	40	0
+	+	41	16
