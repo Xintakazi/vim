@@ -23,7 +23,8 @@ endif
 "
 
 call plug#begin()
-
+"自动补全
+Plug 'neoclide/coc.nvim', {'branch': 'release'}
 
 
 
