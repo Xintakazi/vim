@@ -74,4 +74,7 @@ call plug#end()
  " nnoremap <F3> :NERDTreeToggle<CR> " 开启/关闭nerdtree快捷键
 
 "自动补全
+"
+inoremap <expr> <Tab> pumvisible() ? "\<C-n>" : "\<Tab>"
+inoremap <expr> <S-Tab> pumvisible() ? "\<C-n>" : "\<S-Tab>"
 
